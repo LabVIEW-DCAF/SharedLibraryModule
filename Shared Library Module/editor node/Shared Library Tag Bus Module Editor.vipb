@@ -1,10 +1,10 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-23 00:20:44" Modified_Date="2014-08-01 11:41:41" Creator="Daniel" Comments="" ID="9216bf8f9d28f32df11ff36bbb750184">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-23 00:20:44" Modified_Date="2014-08-25 18:20:09" Creator="Daniel" Comments="" ID="2a795df05cb9e6a6ae98d67e6e6a3f12">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_clfn_tbmedit</Package_File_Name>
-    <Library_Version>1.0.0.3</Library_Version>
+    <Library_Version>1.0.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
-    <Library_Output_Folder>..\..\package releases\shared library\editor</Library_Output_Folder>
+    <Library_Output_Folder>..\..\..\releases\modules\shared lib</Library_Output_Folder>
     <Company_Name>National Instruments</Company_Name>
     <Library_Summary/>
     <Library_License>BSD 2-clause</Library_License>
