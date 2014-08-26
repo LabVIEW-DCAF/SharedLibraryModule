@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-23 00:20:44" Modified_Date="2014-08-25 18:20:09" Creator="Daniel" Comments="" ID="2a795df05cb9e6a6ae98d67e6e6a3f12">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-23 00:20:44" Modified_Date="2014-08-25 22:09:26" Creator="Daniel" Comments="" ID="f304256a06da81795c7d2175befe46ea">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_clfn_tbmedit</Package_File_Name>
-    <Library_Version>1.0.0.4</Library_Version>
+    <Library_Version>1.0.0.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\..\releases\modules\shared lib</Library_Output_Folder>
@@ -41,7 +41,7 @@
       <Toolkit_VIs>
         <LLB>false</LLB>
         <Preserve_Hierarchy>true</Preserve_Hierarchy>
-        <Path>&lt;vi.lib&gt;\TBM Modules\CLFN\editor</Path>
+        <Path>&lt;vi.lib&gt;\NI\TBM Modules\CLFN\editor</Path>
       </Toolkit_VIs>
       <Examples>
         <LLB>false</LLB>

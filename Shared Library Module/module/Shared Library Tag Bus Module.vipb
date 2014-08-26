@@ -1,10 +1,10 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-23 00:13:51" Modified_Date="2014-08-01 11:37:25" Creator="Daniel" Comments="" ID="e693e0e9aff728be34f0984ebfc854cf">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-23 00:13:51" Modified_Date="2014-08-25 21:57:58" Creator="Daniel" Comments="" ID="cf777acde57635d2f43b10c4452eaf8f">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_clfn_tbm</Package_File_Name>
-    <Library_Version>1.0.0.2</Library_Version>
+    <Library_Version>1.0.0.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
-    <Library_Output_Folder>..\..\package releases\shared library\module</Library_Output_Folder>
+    <Library_Output_Folder>..\..\..\releases\modules\shared lib</Library_Output_Folder>
     <Company_Name>National Instruments</Company_Name>
     <Library_Summary/>
     <Library_License>BSD 2-clause</Library_License>
@@ -40,7 +40,7 @@
       <Toolkit_VIs>
         <LLB>false</LLB>
         <Preserve_Hierarchy>true</Preserve_Hierarchy>
-        <Path>&lt;vi.lib&gt;\TBM Modules\CLFN</Path>
+        <Path>&lt;vi.lib&gt;\NI\TBM Modules\CLFN</Path>
       </Toolkit_VIs>
       <Examples>
         <LLB>false</LLB>
