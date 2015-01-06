@@ -65,7 +65,7 @@ int init (lvdatadictionary*, lvdatadictionary*, lvdatadictionary*,lvdatadictiona
 int input (lvdatacluster*);
 int output (lvdatacluster*);
 int process (lvdatacluster*, lvdatacluster*);
-int classifyErrors(int32, LVBoolean, errorClass*);
+int classifyErrors(int32, errorClass*);
 int closePlugin();
 
 

@@ -229,7 +229,7 @@ int PLEXPORT process (lvdatacluster* parameters, lvdatacluster* results) {
 
 }
 
-int PLEXPORT classifyErrors(int32 errToClassify, LVBoolean attemptRecovery, errorClass* errType) {
+int PLEXPORT classifyErrors(int32 errToClassify, errorClass* errType) {
 	switch (errToClassify) {
 	case 0:
 		/*defined as no error for lv*/
@@ -238,18 +238,7 @@ int PLEXPORT classifyErrors(int32 errToClassify, LVBoolean attemptRecovery, erro
 		*errType = critical;
 		break;
 	case IndexOutOfRange:
-		/*apparently C-lang quirk*/ ;
-		LVBoolean recoverySuccess = FALSE;
-		if (attemptRecovery) {
-			/*attempt magic here*/
-			recoverySuccess = TRUE;
-		}
-		if (recoverySuccess) {
-			*errType = trivial; /*still set as trivial in case this has meaning--for example, if debugging any error may be of note*/
-		}
-		else {
-			*errType = recoverable;
-		}
+		*errType = recoverable;
 		break;
 	default:
 		break;
