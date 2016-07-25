@@ -1,6 +1,6 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-23 00:13:51" Modified_Date="2016-07-18 13:21:27" Creator="Daniel" Comments="" ID="c801a482669b9c06fbbbf0e00a4ba6df">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-23 00:13:51" Modified_Date="2016-07-25 14:03:32" Creator="Daniel" Comments="" ID="03c4ad7e9659f2f13538ed00460c8d54">
   <Library_General_Settings>
-    <Package_File_Name>ni_lib_tbm_clfn</Package_File_Name>
+    <Package_File_Name>ni_lib_dcaf_shared_library</Package_File_Name>
     <Library_Version>2.0.1.1</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
