@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-23 00:13:51" Modified_Date="2016-07-25 14:03:32" Creator="Daniel" Comments="" ID="03c4ad7e9659f2f13538ed00460c8d54">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-23 00:13:51" Modified_Date="2016-07-25 22:00:53" Creator="Daniel" Comments="" ID="43d2d22f560138da5d0928c9a25b7e1e">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_shared_library</Package_File_Name>
     <Library_Version>2.0.1.1</Library_Version>
@@ -17,7 +17,7 @@
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies>
-      <Additional_External_Dependencies>ni_lib_dataeng &gt;=2.0.5.3</Additional_External_Dependencies>
+      <Additional_External_Dependencies>ni_frmwk_dcaf_core &gt;=1.0.0.5</Additional_External_Dependencies>
       <Package_Conflicts>ni_lib_clfn_tbm &gt;=1.0.0.1</Package_Conflicts>
       <Package_Conflicts>ni_lib_clfn_tbmedit &gt;=1.0.0.2</Package_Conflicts>
     </Package_Dependencies>
