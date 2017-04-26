@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-23 00:13:51" Modified_Date="2017-04-26 15:57:32" Creator="Daniel" Comments="" ID="075b2e26b1c2ddd3d0c6e0af74e02993">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-23 00:13:51" Modified_Date="2017-04-26 18:51:01" Creator="Daniel" Comments="" ID="149a12697ce34420ddb4f89a4b702de8">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_shared_library</Package_File_Name>
-    <Library_Version>2.1.0.1</Library_Version>
+    <Library_Version>2.1.0.2</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\releases\modules\CLFN</Library_Output_Folder>
